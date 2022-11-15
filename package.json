@@ -58,9 +58,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "scripts": {
-    "start": "node server.js"
-  },
+  
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
