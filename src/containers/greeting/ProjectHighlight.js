@@ -6,7 +6,7 @@ import { Fade } from "react-reveal";
 export default function Highl(props) {
   const theme = props.theme;
   return (
-    <div className="maiin" id="Highl">
+    <div className="main" id="Highl">
       <div className="Highl-header-div">
         <Fade bottom duration={2000} distance="20px">
           <h1 className="proj-header" style={{ color: theme.text }}>
